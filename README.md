@@ -69,11 +69,3 @@ Açıklama:
 
 🛠️ Bu proje, temel veri yapıları ve nesne tabanlı programlama (OOP) öğrenimi için harika bir örnektir.
 
-```
-
----
-
-Yukarıdaki metni kopyalayıp bir **`README.md`** dosyasına kaydedebilirsin. GitHub’a yüklersen otomatik olarak düzgün görüntülenir.
-
-Eklemek veya değiştirmek istediğin başka bir şey var mı? 😊
-```
