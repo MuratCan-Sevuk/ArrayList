@@ -1,6 +1,4 @@
-Tabii! 🎉 İstediğin gibi tüm içeriği **bir `README.md` dosyası formatında** aşağıya yazıyorum. Bu metni bir `README.md` dosyasına yapıştırabilirsin:
 
----
 
 ````markdown
 # MyArrayList
